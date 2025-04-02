@@ -3,7 +3,11 @@
     /* margin: 0 auto; */
     /* padding: 20px; */
     /* background-color: red; */
-    text-align: justify;
+    text-align:center;
+    overflow: auto;
+    margin-right: 30%;
+    height: auto;
+
   }
   
   .about-us-heading {
