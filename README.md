@@ -1,7 +1,7 @@
 # 🌿 E-Plant – Online Plant Shopping Website (WIP)
 
 Welcome to **E-Plant**, an online platform for browsing and buying a variety of indoor and outdoor plants.  
-This is a React.js-based e-commerce website currently under development.
+This is a React.js-based e-commerce website currently under development for a local store in my hometown.
 
 ## 🚧 Project Status
 
